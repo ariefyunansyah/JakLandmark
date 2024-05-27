@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "GacoanRadinInten.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "unit" : "centimeters",
+    "width" : 9.8483434437704158
+  }
+}

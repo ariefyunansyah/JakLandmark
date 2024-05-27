@@ -1,0 +1,26 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "DirgantaraMonument.arreferenceimage"
+    },
+    {
+      "filename" : "GacoanRadinInten.arreferenceimage"
+    },
+    {
+      "filename" : "GerobakTututBKT.arreferenceimage"
+    },
+    {
+      "filename" : "KeongMasTMII.arreferenceimage"
+    },
+    {
+      "filename" : "NationalMonument.arreferenceimage"
+    },
+    {
+      "filename" : "SelamatDatangMonument.arreferenceimage"
+    }
+  ]
+}
